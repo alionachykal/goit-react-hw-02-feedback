@@ -26,6 +26,7 @@
     transition: all .3s;
     user-select: none;
     touch-action: manipulation;
+    
 }
 
 .feedbackBtn:focus {
@@ -52,4 +53,11 @@
     .feedbackBtn {
         min-width: 170px;
     }
+}
+.li{
+    list-style: none;
+    display: inline-flex;
+   margin-right: 10px;
+
+
 }
